@@ -25,6 +25,7 @@ body {
     display: flex;
     flex-flow: column;
     min-height: 100vh;
+    font-size: 0.8125rem;
     font-family: 'Barlow Semi Condensed';
     margin: 0;
     background-color: var(--neutral-light-grayish-blue);
@@ -109,7 +110,6 @@ body {
     line-height: 1.5;
     opacity: 70%;
     margin: 0;
-    font-size: 0.8125rem;
 
 }
 
