@@ -24,7 +24,6 @@ html {
 body {
     display: flex;
     flex-flow: column;
-    justify-content: space-between;
     min-height: 100vh;
     font-family: 'Barlow Semi Condensed';
     margin: 0;
