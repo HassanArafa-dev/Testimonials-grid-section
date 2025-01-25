@@ -37,7 +37,6 @@ body {
     width: min(90%, 90rem);
     gap: 1.5rem;
     margin: 3rem auto;
-    /* padding: 5vh 0; */
 }
 
 .child .profile {
