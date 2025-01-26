@@ -29,7 +29,6 @@ body {
     font-family: 'Barlow Semi Condensed';
     margin: 0;
     background-color: var(--neutral-light-grayish-blue);
-    position: relative;
 }
 
 .parent {
