@@ -33,7 +33,7 @@ body {
 
 .parent {
     display: grid;
-    width: min(90%, 90rem);
+    width: min(90%, 69.375rem);
     gap: 1.5rem;
     margin: 3rem auto;
 }
