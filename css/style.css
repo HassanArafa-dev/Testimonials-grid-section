@@ -87,7 +87,6 @@ body {
 .child .profile .title {
     font-weight: var(--secondary-font-weight);
     opacity: 50%;
-    font-size: .8125rem;
 }
 
 .child:nth-child(3) .profile .title,
