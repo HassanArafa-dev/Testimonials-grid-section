@@ -58,7 +58,6 @@ body {
     inset: 0;
     left: calc(100% - 110px - 45px);
     right: 30px;
-    opacity: 50%;
     z-index: -1;
     background-image: url('../imgs/bg-pattern-quotation.svg');
     background-repeat: no-repeat;
